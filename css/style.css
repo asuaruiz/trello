@@ -1,4 +1,27 @@
 * {
     box-sizing: border-box;
 }
-
+.span-form{
+	background-color: #A0A0EC;
+	opacity: 0.8;
+	border-radius: 4px;
+	padding: 5px;
+	margin-top: 10px;
+}
+.span-form:hover{
+	background-color: #7070A8;
+	opacity: 0.8;
+	color: white;
+	cursor:pointer;
+}
+.panel-primary {
+	padding: 10px;
+	background-color: #C9C0C0;
+	border: none;
+}
+.inputShadow {
+	-webkit-box-shadow:inset 0 0 10px #000;
+       -moz-box-shadow:inset 0 0 10px #000;
+            box-shadow:inset 0 0 10px #000;
+            background-color: white;
+}
